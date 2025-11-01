@@ -2,7 +2,7 @@
 
 
 
-A full-stack Movie Review application built with React, Node.js, Express, and Firebase.description
+Movie Watching Platform. Feel free to stream
 
 
 
