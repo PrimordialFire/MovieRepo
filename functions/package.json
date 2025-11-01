@@ -1,0 +1,13 @@
+{
+  "name": "movieexp-functions",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-functions": "^5.1.1",
+    "firebase-admin": "^12.6.0",
+    "cors": "^2.8.5"
+  }
+}
